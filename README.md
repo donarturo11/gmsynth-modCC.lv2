@@ -9,8 +9,8 @@ Install
 Compiling gmsynth requires the LV2 SDK, gnu-make, a c++-compiler.
 
 ```bash
-  git clone git://github.com/x42/gmsynth.lv2.git
-  cd gmsynth.lv2
+  git clone https://github.com/donarturo11/gmsynth-modCC.lv2.git
+  cd gmsynth-modCC.lv2
   make
   sudo make install PREFIX=/usr
 ```
