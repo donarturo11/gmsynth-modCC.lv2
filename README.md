@@ -1,4 +1,4 @@
-gmsynth.lv2 - General MIDI Synth
+gmsynth-modCC.lv2 - General MIDI Synth
 ================================
 
 gmsynth-modCC.lv2 is a General MIDI Sample Player Plugin. This is based on original soundfont but modified to controlling modulators with Control Change with GS compatibility.
